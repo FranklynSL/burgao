@@ -77,29 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "sdfjghfd",
-      "carne": "Veggie burger",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Bacon",
-        "Salame",
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "DSGJKHDFGKJ",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "Finalizado",
-      "id": 2
-    }
-  ]
+  "burgers": []
 }
